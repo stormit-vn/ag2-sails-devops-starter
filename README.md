@@ -188,3 +188,18 @@ We use the TSLint and ESLint to analyze the code by using the following styles
 
 # Sample CI/CD Pipeline #
 ![Alt text](https://github.com/stormit-vn/ag2-sails-devops-starter/blob/master/cicd-pipeline.jpg?raw=true "CI/CD Pipeline")
+
+
+# ☑ TODO
+- [ ] Support Conditional Request for API
+- [ ] Support NoSQL i.e. MongoDB
+- [ ] Support more cacher options such as Memcached / Redis
+- [ ] AWS CloudFormation script to setup infrastructure automatically
+- [ ] Apply NgRedux
+- [ ] An alternative option to host with NGINX
+
+
+
+
+
+
